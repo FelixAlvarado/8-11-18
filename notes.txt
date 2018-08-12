@@ -10,3 +10,6 @@ what is moore's law?
 
 The obseration that th enumber of transitors in a desnse integrated circuit doubles about ever two years. 
 
+Explain the difference btween funciton expression and function declaration
+
+Function expressions aren't hoisted while function declatrations are 
