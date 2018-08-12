@@ -1,0 +1,7 @@
+What is the time compleity of radix sort? what are the steps for this algorithm? 
+
+Go through the array, sorting by the one's place first, and continuing one to a more significant digit. 
+
+What is an ideal use-case for Radix sort? 
+
+When the base of the numbers greater than the amount of numbers in the array. 
