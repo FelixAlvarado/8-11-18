@@ -12,4 +12,9 @@ The obseration that th enumber of transitors in a desnse integrated circuit doub
 
 Explain the difference btween funciton expression and function declaration
 
-Function expressions aren't hoisted while function declatrations are 
+Function expressions aren't hoisted while function declatrations are
+
+Describe the effects of using Group By and Having 
+
+Group by takes a table and summerizes it into another table. You summerize the original table by grouping the original into subsets. Each subset yeilds one tuple. 
+Having is equvalent to where clasuse but after the group by having executed and before the select part of the query is computed. 
