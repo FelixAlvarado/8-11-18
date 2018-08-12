@@ -5,3 +5,8 @@ Go through the array, sorting by the one's place first, and continuing one to a 
 What is an ideal use-case for Radix sort? 
 
 When the base of the numbers greater than the amount of numbers in the array. 
+
+what is moore's law? 
+
+The obseration that th enumber of transitors in a desnse integrated circuit doubles about ever two years. 
+
